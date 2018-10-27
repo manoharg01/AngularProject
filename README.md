@@ -1,8 +1,8 @@
 # AngularProject
 
 Best-Tunes : This project is intended to be the songs blog site, 
-where the trending/latest songs are shown and also page where sogs are organised according to the genre.
-Songs can also be added to the users to create a playlist.
+where the trending/latest songs are shown and also page where songs are organised according to the genre to pick from.
+Users can create their own playlist.
 
 Currently, genre and playlist components are yet to be implemented.
 
